@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "General leftover timing",
+    "text": "Cool cooked food within 2 hours, then store it in the fridge. Most leftovers are safe for about 3 to 4 days when refrigerated at or below 4°C (40°F)."
+  },
+  {
+    "id": 2,
+    "title": "Shallow containers",
+    "text": "Store leftovers in shallow containers so they cool faster and more evenly. Deep containers keep the center warm for too long, which can let bacteria grow."
+  },
+  {
+    "id": 3,
+    "title": "Label and date",
+    "text": "Label containers with the name of the dish and the date it was cooked. This makes it easy to see what should be eaten first and what should be thrown away."
+  },
+  {
+    "id": 4,
+    "title": "Reheating temperature",
+    "text": "When reheating leftovers, heat them until they are steaming hot all the way through, ideally to 74°C (165°F). Stir halfway through reheating to avoid cold spots."
+  },
+  {
+    "id": 5,
+    "title": "Microwave reheating",
+    "text": "In the microwave, cover leftovers with a microwave-safe lid or wrap to keep moisture. Stir or rotate the food partway through heating so it warms evenly."
+  },
+  {
+    "id": 6,
+    "title": "Rice leftovers",
+    "text": "Cool cooked rice quickly and store it in the fridge within 1 hour. Eat it within 1 day. Reheat it only once and make sure it is steaming hot, then throw away any leftovers."
+  },
+  {
+    "id": 7,
+    "title": "Reheating once only",
+    "text": "Try to reheat leftovers only once. Take out only the portion you need, reheat it thoroughly, and keep the rest in the fridge for another meal."
+  },
+  {
+    "id": 8,
+    "title": "Freezing leftovers",
+    "text": "If you will not eat leftovers within a few days, freeze them. Use freezer-safe bags or containers, remove extra air, and label with the date. Most cooked dishes freeze well for 2 to 3 months."
+  },
+  {
+    "id": 9,
+    "title": "Smell and look check",
+    "text": "If leftovers smell strange, look slimy, or you are not sure how long they have been in the fridge, it is safer to throw them away. When in doubt, throw it out."
+  },
+  {
+    "id": 10,
+    "title": "Serving buffet style",
+    "text": "When serving food buffet-style, keep hot foods hot and cold foods cold. Do not leave food at room temperature for more than 2 hours, or 1 hour if it is very warm in the room."
+  }
+]
